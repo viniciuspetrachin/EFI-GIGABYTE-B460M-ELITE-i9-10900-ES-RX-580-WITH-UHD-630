@@ -1,6 +1,6 @@
 # Gigabyte B460M Aorus Elite + i9 10900 ES + AMD Radeon RX 580 + iGPU
 
-![About This Mac - General][(https://user-images.githubusercontent.com/23700365/136068125-df272a62-863c-4754-a2ec-c2cba7097d08.png)](https://raw.githubusercontent.com/viniciuspetrachin/EFI-GIGABYTE-B460M-ELITE-i9-10900-ES-RX-580-WITH-UHD-630/main/Details/about%20this%20mac.png)
+![About This Mac - General](https://raw.githubusercontent.com/viniciuspetrachin/EFI-GIGABYTE-B460M-ELITE-i9-10900-ES-RX-580-WITH-UHD-630/main/Details/about%20this%20mac.png)
 
 **Latest working macOS**: 13.1
 <br>
