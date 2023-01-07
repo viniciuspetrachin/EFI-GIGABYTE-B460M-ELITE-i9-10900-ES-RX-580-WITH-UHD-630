@@ -30,6 +30,8 @@
 ## Config.plist
 Remember to configure your config.plist with the information you generate in your GenSMBIOS. I left everything with code AAAAA. For you to update.
 
+![Config.plist Sample MLB](https://raw.githubusercontent.com/viniciuspetrachin/EFI-GIGABYTE-B460M-ELITE-i9-10900-ES-RX-580-WITH-UHD-630/main/Details/config%20plist%20gensmbios.png)
+
 ## Kexts used:
 - AppleALC.kext
 - IntelMausi.kext
