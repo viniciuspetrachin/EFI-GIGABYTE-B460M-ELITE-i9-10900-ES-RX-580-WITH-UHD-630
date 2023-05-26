@@ -2,9 +2,9 @@
 
 ![About This Mac - General](https://raw.githubusercontent.com/viniciuspetrachin/EFI-GIGABYTE-B460M-ELITE-i9-10900-ES-RX-580-WITH-UHD-630/main/Details/about%20this%20mac.png)
 
-**Latest working macOS**: 13.1
+**Latest working macOS**: 13.3
 <br>
-**Current OpenCore**: 0.8.8
+**Current OpenCore**: 0.9.2
 
 ## Complete hardware specs
 - Intel i9 10900 ES (Engineer Sample / QTB1)
@@ -16,7 +16,7 @@
 - SSD NVME Gen3 - XPG 512Gb
 
 ## What works
-- macOS macOS Monterey, macOS Ventura (13.1 tested and working)
+- macOS macOS Monterey, macOS Ventura (13.3 tested and working)
 - Audio
 - HDMI/DP
 - USB ports
