@@ -2,9 +2,9 @@
 
 ![About This Mac - General](https://raw.githubusercontent.com/viniciuspetrachin/EFI-GIGABYTE-B460M-ELITE-i9-10900-ES-RX-580-WITH-UHD-630/main/Details/about%20this%20mac.png)
 
-**Latest working macOS**: 13.3
+**Latest working macOS**: 14.0
 <br>
-**Current OpenCore**: 0.9.2
+**Current OpenCore**: 0.9.5
 
 ## Complete hardware specs
 - Intel i9 10900 ES (Engineer Sample / QTB1)
